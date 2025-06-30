@@ -19,7 +19,7 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 ## IV. Exploring the Dataset
 In this project, I will write and run SQL queries in Google BigQuery on the Google Analytics dataset to retrieve the necessary data for answering business questions.
 
-### Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
+### Query 01: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month
 [Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:adfe928ac9c64cb0a58a526e93b7aaef)
 * SQL code
 
@@ -29,4 +29,13 @@ In this project, I will write and run SQL queries in Google BigQuery on the Goog
 
 ![image](https://github.com/user-attachments/assets/efc1ace6-189b-4f2b-9236-1b757eb9b91b)
 
+### Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC).
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:f043a6b83f0b4adebe8896d67c5f4378)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/ce0cfd09-7b68-46bf-ae19-f33e79cdbac0)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/4508f9ee-150e-4880-9cda-d676b4a30c1c)
 
