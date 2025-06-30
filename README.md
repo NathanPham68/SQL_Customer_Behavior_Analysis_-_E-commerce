@@ -1,6 +1,6 @@
 # [SQL] bigquery_Ecommerce_Project
 ## I. Introduction
-This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
+This project involves exploring an eCommerce dataset using SQL in Google BigQuery. The dataset is derived from the Google Analytics public dataset and includes data from an eCommerce website.
 
 ## II. Requirements
 * [Google Cloud Platform account](https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-VN-all-en-dr-BKWS-all-pkws-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_658271209592-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General_google+cloud+misspelled_main-KWID_43700076378560719-aud-1596662388894:kwd-28814176598&userloc_9040331-network_g&utm_term=KW_google+clound&gclid=CjwKCAjwlJimBhAsEiwA1hrp5gzjp8TbXFlya9sL5k6mqYVZJ0qpbaEQoRnV_EtNx0vWbDlZF3txkxoCwOEQAvD_BwE&gclsrc=aw.ds&hl=en)
@@ -70,5 +70,37 @@ In this project, I will write and run SQL queries in Google BigQuery on the Goog
 ![image](https://github.com/user-attachments/assets/8389eb08-05bd-489b-8cbd-e7c40c41c869)
 
 ### Query 06: Average amount of money spent per session. Only include purchaser data in July 2017.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:9eb8b2232eba48b58dc7341e3f98aaf3)
+* SQL code
 
+![image](https://github.com/user-attachments/assets/1e671d91-af93-4fb6-9e75-2fec7e11152b)
 
+* Query results
+
+![image](https://github.com/user-attachments/assets/e64c16cf-f3a0-4a4c-b508-df025db7d4b1)
+
+### Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:6cae2960904e4f2699aab37d5f2340d5)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/496ff484-950c-45d6-bda9-092c27fbac5e)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/8c106579-ef4d-46d1-b6c6-1a4f4cc0491e)
+
+### Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase. Add_to_cart_rate = number product add to cart/number product view. Purchase_rate = number product purchase/number product view. The output should be calculated in product level.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:b35072cdc2b6405faf80360fe6e0f7df)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/30766267-ddc0-4314-8492-11932c31913f)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/8b3c1c5b-e650-4df6-827b-eecf7df46b72)
+
+## V. Conclusion
+* In conclusion, my analysis of the eCommerce dataset using SQL in Google BigQuery, based on the Google Analytics dataset, has uncovered several valuable insights.
+* By examining the dataset, I gained important information on total visits, pageviews, transactions, bounce rate, and revenue by traffic source, which can help guide future business decisions.
+* To further explore these insights and key trends, the next step will involve visualizing the data using tools such as Power BI or Tableau.
+* Overall, this project has highlighted the effectiveness of using SQL and big data tools like Google BigQuery to extract insights from large datasets.
