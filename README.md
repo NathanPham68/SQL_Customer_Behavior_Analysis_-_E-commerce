@@ -39,3 +39,36 @@ In this project, I will write and run SQL queries in Google BigQuery on the Goog
 
 ![image](https://github.com/user-attachments/assets/4508f9ee-150e-4880-9cda-d676b4a30c1c)
 
+### Query 03: Revenue by traffic source by week, by month in June 2017.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:8192550c60294fbf99bd365a6e8a7e86)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/e2b4829f-f09c-40fd-a6e0-2d27c771de40)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/a99c89b5-2b17-4b02-bb0f-db82fcb91009)
+
+### Query 04: Average number of product pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:3adc708c8ff94b7b99294ad48cccd214)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/02dabe95-056a-4499-bfe1-28c5a2bea1c8)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/a1bcbf79-f51c-407d-b1a6-a910e8cabea0)
+
+### Query 05: Average number of transactions per user that made a purchase in July 2017.
+[Link to code](https://console.cloud.google.com/bigquery?sq=322729696559:6c676550da5a4acfbd13aedc10737f6f)
+* SQL code
+
+![image](https://github.com/user-attachments/assets/90d435b4-bef8-495e-b442-2870a9f002c1)
+
+* Query results
+
+![image](https://github.com/user-attachments/assets/8389eb08-05bd-489b-8cbd-e7c40c41c869)
+
+### Query 06: Average amount of money spent per session. Only include purchaser data in July 2017.
+
+
