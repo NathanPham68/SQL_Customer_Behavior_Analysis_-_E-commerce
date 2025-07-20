@@ -11,7 +11,7 @@ III. [🧠 Dataset Access](#III.-Dataset-Access)
 
 IV. [📊 Exploring the Dataset](#IV.-Exploring-the-Dataset)
 
-V. [🔎 Final Conclusion](#v.-conclusion)
+V. [🔎 Final Conclusion](#conclusion)
 
 ## I. Introduction
 This project involves exploring an eCommerce dataset using SQL in Google BigQuery. The dataset is derived from the Google Analytics public dataset and includes data from an eCommerce website.
