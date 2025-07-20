@@ -3,10 +3,14 @@
 ![image](https://github.com/user-attachments/assets/346f379d-8d72-4203-b652-aed849201c85)
 
 ## Table of Contents
-I. [📌 Introduction](#background--overview)
-II. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
-III. [🧠 Design Thinking Process](#design-thinking-process)
-IV. [📊 Key Insights & Visualizations](#key-insights--visualizations)
+I. [📌 Introduction](#I.-Introduction)
+
+II. [📂 Requirements](#II.-Requirements)
+
+III. [🧠 Dataset Access](#III.-Dataset-Access)
+
+IV. [📊 Exploring the Dataset](#IV.-Exploring-the-Dataset)
+
 V. [🔎 Final Conclusion](#v.-Conclusion)
 
 ## I. Introduction
