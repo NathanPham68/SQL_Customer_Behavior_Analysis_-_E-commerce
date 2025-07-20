@@ -2,6 +2,13 @@
 
 ![image](https://github.com/user-attachments/assets/346f379d-8d72-4203-b652-aed849201c85)
 
+## Table of Contents
+I. [📌 Introduction](#background--overview)
+II. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
+III. [🧠 Design Thinking Process](#design-thinking-process)
+IV. [📊 Key Insights & Visualizations](#key-insights--visualizations)
+V. [🔎 Final Conclusion](#v-Conclusion)
+
 ## I. Introduction
 This project involves exploring an eCommerce dataset using SQL in Google BigQuery. The dataset is derived from the Google Analytics public dataset and includes data from an eCommerce website.
 
