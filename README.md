@@ -1,4 +1,4 @@
-# [SQL] bigquery_Ecommerce_Project
+# [SQL] Customer Behavior Analysis - E-commerce
 
 ![image](https://github.com/user-attachments/assets/346f379d-8d72-4203-b652-aed849201c85)
 
