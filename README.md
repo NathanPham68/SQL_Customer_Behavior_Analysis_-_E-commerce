@@ -1,4 +1,4 @@
-# [SQL] Customer Journey & Revenue Analysis in E-commerce
+# [SQL] How Does Traffic Source Impact Revenue? - Online Retail Analytics
 
 ![image](https://github.com/user-attachments/assets/346f379d-8d72-4203-b652-aed849201c85)
 
